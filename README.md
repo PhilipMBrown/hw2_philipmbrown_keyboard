@@ -14,7 +14,7 @@ int pushButton1 = D0;
 int pushButton2 = D1;
 int pushButton3 = D2;
 int pushButton4 = D3;
-int pushButton5 = D5;
+int pushButton5 = D4;
 int pushButton6 = D13;
 
 // the setup routine runs once when you press reset:
